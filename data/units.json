@@ -1,0 +1,8 @@
+[
+  {"id":"1","label":"A-01-01","floor":1,"area":42.5,"rooms":1.5,"orientation":"Dvorište","status":"available","price":"Cena na upit","planImg":"/placeholders/plan-a0101.jpg","pdfUrl":"/placeholders/stan-a0101.pdf","svgId":"unit-a0101"},
+  {"id":"2","label":"A-02-05","floor":2,"area":52.0,"rooms":2.0,"orientation":"Ulična","status":"available","price":"129,900 €","planImg":"/placeholders/plan-a0205.jpg","pdfUrl":"/placeholders/stan-a0205.pdf","svgId":"unit-a0205"},
+  {"id":"3","label":"A-03-02","floor":3,"area":64.8,"rooms":2.5,"orientation":"Dvostrano","status":"reserved","price":"154,500 €","planImg":"/placeholders/plan-a0302.jpg","pdfUrl":"/placeholders/stan-a0302.pdf","svgId":"unit-a0302"},
+  {"id":"4","label":"A-04-04","floor":4,"area":78.1,"rooms":3.0,"orientation":"Ulična","status":"sold","price":"189,000 €","planImg":"/placeholders/plan-a0404.jpg","pdfUrl":"/placeholders/stan-a0404.pdf","svgId":"unit-a0404"},
+  {"id":"5","label":"A-05-01","floor":5,"area":91.3,"rooms":3.5,"orientation":"Penthouse","status":"available","price":"Cena na upit","planImg":"/placeholders/plan-a0501.jpg","pdfUrl":"/placeholders/stan-a0501.pdf","svgId":"unit-a0501"},
+  {"id":"6","label":"A-06-02","floor":6,"area":103.7,"rooms":4.0,"orientation":"Dvostrano","status":"available","price":"249,900 €","planImg":"/placeholders/plan-a0602.jpg","pdfUrl":"/placeholders/stan-a0602.pdf","svgId":"unit-a0602"}
+]

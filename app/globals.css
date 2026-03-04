@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  @apply bg-brand-50 text-brand-900 antialiased;
+}
+
+.section {
+  @apply mx-auto max-w-7xl px-4 py-16 sm:px-6 lg:px-8;
+}
+
+.card {
+  @apply rounded-2xl border border-brand-100 bg-white/90 p-6 shadow-premium backdrop-blur;
+}
+
+.fade-up {
+  animation: fadeUp 450ms ease both;
+}
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(12px); }
+  to { opacity: 1; transform: translateY(0); }
+}
